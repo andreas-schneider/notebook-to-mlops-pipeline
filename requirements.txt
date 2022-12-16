@@ -1,0 +1,14 @@
+argparse
+azure-ai-ml
+azure-identity
+pybase64
+cloudpickle
+joblib
+#torch==1.12.1
+#torchvision==0.13.1
+#wandb==0.9.7
+cloudpickle
+inference-schema
+matplotlib
+opencensus-ext-azure
+pandas
